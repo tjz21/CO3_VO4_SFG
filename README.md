@@ -1,6 +1,6 @@
 # Carbonate-Vanadate SFG Calculations
 
-<img align='right' src='https://github.com/tjz21/CO2_SFG_DFT/blob/main/vanadate.png' width = "207" height = "127"> 
+<img align='right' src='https://github.com/tjz21/CO3_VO4_SFG/blob/main/VO4_HCO3_structure.png' width = "223" height = "92"> 
 
 Computational supporting information for the submitted manuscript 'Orthovanadate-Induced Ion Pairing Enhances Carbonate/Bicarbonate Surface Propensity at the Air/Water Interface.' DFT calculations were carried out in the Gaussian 16 Rev A.03<sup>1</sup> software package with the CAM-B3LYP functional,<sup>2</sup> 6-31+G\* basis set, D3 empirical dispersion,<sup>3</sup> and implicit PCM:water solvent. Calculation summaries generated with ESIgen.<sup>4</sup> See the file tree below for metadata.
 
