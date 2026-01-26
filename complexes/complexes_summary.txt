@@ -1,0 +1,129 @@
+Created using ESIgen v0.0.5
+===========================
+
+ESIgen is scientific software, funded by public research grants
+and published as:
+
+    J Rodriguez-Guerra, P Gomez-Orellana, JD Marechal.
+    J. Chem. Inf. Model., 2018, 58 (3), pp 561–564.
+    DOI: 10.1021/acs.jcim.7b00714.
+
+If you make use of ESIgen in scientific publications, please cite
+us in the main text! References only mentioned in SI documents
+are not indexed by citation engines.
+
+***
+
+
+# HVO4_CO3---complex 2
+
+
+__Requested operations__
+
+Run with Gaussian 16revisionA.03.
+
+`P Geom=AllCheck Guess=TCheck SCRF=Check GenChk RCAM-B3LYP/ChkBas Freq`
+
+__Relevant magnitudes__
+
+
+| Datum                                            | Value                     |
+|:-------------------------------------------------|--------------------------:|
+| Charge                                           |             -4            |
+| Multiplicity                                     |             1             |
+| Stoichiometry                                    |         CHO7V(-4)         |
+| Number of Basis Functions                        |            168            |
+| Electronic Energy (Eh)                           |       -637.111603829      |
+| Sum of electronic and zero-point Energies (Eh)   |         -637.07358        |
+| Sum of electronic and thermal Energies (Eh)      |        -637.063387        |
+| Sum of electronic and enthalpy Energies (Eh)     |        -637.062443        |
+| Sum of electronic and thermal Free Energies (Eh) |        -637.113227        |
+| Number of Imaginary Frequencies                  |             0             |
+| Mean of alpha and beta Electrons                 |             40            |
+
+__Molecular Geometry in Cartesian Coordinates__
+
+```xyz
+C           3.047814        0.908467        0.400100
+O           4.048939        0.885321        1.218120
+O           1.843149        1.084419        0.866699
+O          -0.477142        0.920864       -0.483801
+V          -1.512917       -0.566539       -0.136469
+O          -2.715004       -0.588834       -1.292940
+O          -2.167575       -0.438615        1.396290
+O          -0.547247       -1.921943       -0.237297
+H           0.411002        0.960052       -0.022259
+O           3.229726        0.760508       -0.870862
+```
+
+__Frequencies__ (Top 10 out of 24)
+
+```
+  1.      27.0647 cm-1 (Symmetry: A) 
+  2.      32.4817 cm-1 (Symmetry: A) 
+  3.      42.5471 cm-1 (Symmetry: A) 
+  4.      75.9986 cm-1 (Symmetry: A) 
+  5.      98.4738 cm-1 (Symmetry: A) 
+  6.     179.2730 cm-1 (Symmetry: A) 
+  7.     291.4460 cm-1 (Symmetry: A) 
+  8.     312.7215 cm-1 (Symmetry: A) 
+  9.     343.8659 cm-1 (Symmetry: A) 
+ 10.     352.5206 cm-1 (Symmetry: A) 
+```
+***
+# VO4_HCO3---complex 1
+
+
+__Requested operations__
+
+Run with Gaussian 16revisionA.03.
+
+`P Geom=AllCheck Guess=TCheck SCRF=Check GenChk RCAM-B3LYP/ChkBas Freq`
+
+__Relevant magnitudes__
+
+
+| Datum                                            | Value                     |
+|:-------------------------------------------------|--------------------------:|
+| Charge                                           |             -4            |
+| Multiplicity                                     |             1             |
+| Stoichiometry                                    |         CHO7V(-4)         |
+| Number of Basis Functions                        |            168            |
+| Electronic Energy (Eh)                           |       -637.102602231      |
+| Sum of electronic and zero-point Energies (Eh)   |        -637.064583        |
+| Sum of electronic and thermal Energies (Eh)      |        -637.054722        |
+| Sum of electronic and enthalpy Energies (Eh)     |        -637.053778        |
+| Sum of electronic and thermal Free Energies (Eh) |        -637.102694        |
+| Number of Imaginary Frequencies                  |             0             |
+| Mean of alpha and beta Electrons                 |             40            |
+
+__Molecular Geometry in Cartesian Coordinates__
+
+```xyz
+C           3.393648        0.496818        0.080577
+O           4.622244        0.291516        0.286973
+O           2.885118        1.531579       -0.434532
+O          -2.427558        0.961746        0.414627
+V          -1.652239       -0.469086       -0.073959
+O          -2.003204       -0.773357       -1.708037
+O          -2.201879       -1.765672        0.877604
+O           0.056611       -0.294184        0.123264
+O           2.561219       -0.511205        0.459341
+H           1.560144       -0.319033        0.276791
+```
+
+__Frequencies__ (Top 10 out of 24)
+
+```
+  1.      39.5689 cm-1 (Symmetry: A) 
+  2.      57.1075 cm-1 (Symmetry: A) 
+  3.      71.9338 cm-1 (Symmetry: A) 
+  4.      85.8066 cm-1 (Symmetry: A) 
+  5.     116.0082 cm-1 (Symmetry: A) 
+  6.     194.8665 cm-1 (Symmetry: A) 
+  7.     326.6853 cm-1 (Symmetry: A) 
+  8.     332.3784 cm-1 (Symmetry: A) 
+  9.     360.3897 cm-1 (Symmetry: A) 
+ 10.     371.0379 cm-1 (Symmetry: A) 
+```
+***

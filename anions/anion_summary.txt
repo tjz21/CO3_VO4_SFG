@@ -1,0 +1,165 @@
+Created using ESIgen v0.0.5
+===========================
+
+ESIgen is scientific software, funded by public research grants
+and published as:
+
+    J Rodriguez-Guerra, P Gomez-Orellana, JD Marechal.
+    J. Chem. Inf. Model., 2018, 58 (3), pp 561–564.
+    DOI: 10.1021/acs.jcim.7b00714.
+
+If you make use of ESIgen in scientific publications, please cite
+us in the main text! References only mentioned in SI documents
+are not indexed by citation engines.
+
+***
+
+
+# CO3_2minus
+
+
+__Requested operations__
+
+Run with Gaussian 16revisionA.03.
+
+`P Geom=AllCheck Guess=TCheck SCRF=Check GenChk RCAM-B3LYP/6-31+G(d) Freq`
+
+__Relevant magnitudes__
+
+
+| Datum                                            | Value                     |
+|:-------------------------------------------------|--------------------------:|
+| Charge                                           |             -2            |
+| Multiplicity                                     |             1             |
+| Stoichiometry                                    |          CO3(-2)          |
+| Number of Basis Functions                        |             76            |
+| Electronic Energy (Eh)                           |       -263.994870716      |
+| Sum of electronic and zero-point Energies (Eh)   |        -263.981054        |
+| Sum of electronic and thermal Energies (Eh)      |        -263.977871        |
+| Sum of electronic and enthalpy Energies (Eh)     |        -263.976926        |
+| Sum of electronic and thermal Free Energies (Eh) |        -264.006596        |
+| Number of Imaginary Frequencies                  |             0             |
+| Mean of alpha and beta Electrons                 |             16            |
+
+__Molecular Geometry in Cartesian Coordinates__
+
+```xyz
+O           2.730476        3.409323        7.271323
+C           3.878883        3.815061        6.823097
+O           4.663065        4.511846        7.586031
+O           4.243442        3.523915        5.612248
+```
+
+__Frequencies__ (Top 10 out of 6)
+
+```
+  1.     673.3582 cm-1 (Symmetry: A) 
+  2.     678.6602 cm-1 (Symmetry: A) 
+  3.     864.3854 cm-1 (Symmetry: A) 
+  4.    1070.3400 cm-1 (Symmetry: A) 
+  5.    1388.2655 cm-1 (Symmetry: A) 
+  6.    1389.9356 cm-1 (Symmetry: A) 
+```
+***
+# HCO3_1minus
+
+
+__Requested operations__
+
+Run with Gaussian 16revisionA.03.
+
+`P Geom=AllCheck Guess=TCheck SCRF=Check GenChk RCAM-B3LYP/6-31+G(d) Freq`
+
+__Relevant magnitudes__
+
+
+| Datum                                            | Value                     |
+|:-------------------------------------------------|--------------------------:|
+| Charge                                           |             -1            |
+| Multiplicity                                     |             1             |
+| Stoichiometry                                    |          CHO3(-1)         |
+| Number of Basis Functions                        |             78            |
+| Electronic Energy (Eh)                           |       -264.488938768      |
+| Sum of electronic and zero-point Energies (Eh)   |        -264.462563        |
+| Sum of electronic and thermal Energies (Eh)      |        -264.459074        |
+| Sum of electronic and enthalpy Energies (Eh)     |         -264.45813        |
+| Sum of electronic and thermal Free Energies (Eh) |        -264.488303        |
+| Number of Imaginary Frequencies                  |             0             |
+| Mean of alpha and beta Electrons                 |             16            |
+
+__Molecular Geometry in Cartesian Coordinates__
+
+```xyz
+O           2.758710        3.375960        7.265901
+C           3.847337        3.831901        6.865185
+O           4.702925        4.517817        7.471647
+O           4.146296        3.523015        5.533755
+H           5.006119        3.929380        5.340162
+```
+
+__Frequencies__ (Top 10 out of 9)
+
+```
+  1.     529.2786 cm-1 (Symmetry: A) 
+  2.     569.0959 cm-1 (Symmetry: A) 
+  3.     656.6639 cm-1 (Symmetry: A) 
+  4.     823.0730 cm-1 (Symmetry: A) 
+  5.     945.6973 cm-1 (Symmetry: A) 
+  6.    1218.2449 cm-1 (Symmetry: A) 
+  7.    1345.5115 cm-1 (Symmetry: A) 
+  8.    1716.0267 cm-1 (Symmetry: A) 
+  9.    3773.8345 cm-1 (Symmetry: A) 
+```
+***
+# HVO4_2minus
+
+
+__Requested operations__
+
+Run with Gaussian 16revisionA.03.
+
+`P Geom=AllCheck Guess=TCheck SCRF=Check GenChk RCAM-B3LYP/ChkBas Freq`
+
+__Relevant magnitudes__
+
+
+| Datum                                            | Value                     |
+|:-------------------------------------------------|--------------------------:|
+| Charge                                           |             -2            |
+| Multiplicity                                     |             1             |
+| Stoichiometry                                    |          HO4V(-2)         |
+| Number of Basis Functions                        |             96            |
+| Electronic Energy (Eh)                           |       -373.11289609       |
+| Sum of electronic and zero-point Energies (Eh)   |        -373.091176        |
+| Sum of electronic and thermal Energies (Eh)      |        -373.085227        |
+| Sum of electronic and enthalpy Energies (Eh)     |        -373.084283        |
+| Sum of electronic and thermal Free Energies (Eh) |        -373.120862        |
+| Number of Imaginary Frequencies                  |             0             |
+| Mean of alpha and beta Electrons                 |             24            |
+
+__Molecular Geometry in Cartesian Coordinates__
+
+```xyz
+O          -0.780003        1.263234        0.682834
+V          -1.037972       -0.444710       -0.075729
+O          -1.763150       -0.263498       -1.560973
+O          -2.020689       -1.258294        0.985822
+O           0.441342       -1.188526       -0.230259
+H          -0.236693        1.847746        0.134260
+```
+
+__Frequencies__ (Top 10 out of 12)
+
+```
+  1.     145.2979 cm-1 (Symmetry: A) 
+  2.     253.1723 cm-1 (Symmetry: A) 
+  3.     280.6652 cm-1 (Symmetry: A) 
+  4.     323.3925 cm-1 (Symmetry: A) 
+  5.     352.3120 cm-1 (Symmetry: A) 
+  6.     356.8541 cm-1 (Symmetry: A) 
+  7.     591.1707 cm-1 (Symmetry: A) 
+  8.     707.8558 cm-1 (Symmetry: A) 
+  9.     885.7462 cm-1 (Symmetry: A) 
+ 10.     898.4236 cm-1 (Symmetry: A) 
+```
+***
