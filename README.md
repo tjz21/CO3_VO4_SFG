@@ -6,7 +6,7 @@
 
 Computational supporting information for the submitted manuscript 'Orthovanadate-Induced Ion Pairing Enhances Carbonate/Bicarbonate Surface Propensity at the Air/Water Interface.' DFT calculations were carried out in the Gaussian 16 Rev A.03<sup>1</sup> software package with the CAM-B3LYP functional,<sup>2</sup> 6-31+G\* basis set, D3 empirical dispersion,<sup>3</sup> and implicit PCM:water solvent. Calculation summaries generated with ESIgen.<sup>4</sup> See the file tree below for metadata.
 
-## Contents
+## Contents 📁
 ```
 .
 ├── complexes/
@@ -31,7 +31,7 @@ Computational supporting information for the submitted manuscript 'Orthovanadate
 
 2 directories, 14 files
 ```
-## Instructions
+## Instructions 💻
 
 Make a copy of the entire repo with the following command in a terminal:
 ```bash
@@ -45,7 +45,7 @@ wget [raw URL of specific file]
 
 
 ---
-### Contact
+### Contact 📫
 GitHub repository maintained by Tim J. Zuehlsdorff, tim.zuehlsdorff@oregonstate.edu
 
 [cc-zero-png]: https://licensebuttons.net/l/zero/1.0/88x31.png "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication button"
