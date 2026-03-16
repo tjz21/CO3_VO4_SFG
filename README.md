@@ -39,6 +39,7 @@ git clone https://github.com/tjz21/CO3_VO4_SFG.git
 ```
 
 Or if you would just like a specific file:
+<img align="center" src='https://github.com/tjz21/CO3_VO4_SFG/blob/main/raw_link_image.png' width = "600" height = "63.4">
 ```bash
 wget [raw URL of specific file]
 ```
